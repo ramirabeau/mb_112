@@ -1,1 +1,2 @@
 Add picture files and css files in this folder
+Review for next class
